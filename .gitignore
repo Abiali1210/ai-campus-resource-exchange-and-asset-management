@@ -1,0 +1,24 @@
+# Course-local reference material and private drafting/production workspace.
+# Reviewed phase submissions can be tracked separately under docs/.
+/CONTEXT.md
+/planning/
+/publication/
+/Project-September2026.docx
+/COSC336_Circular_Campus_Project_Fall2026 - Tagged.pdf
+/Software Requirements Specification.dotx
+
+# Local credentials and configuration.
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Editor, operating-system, and Office temporary files.
+.DS_Store
+Thumbs.db
+Desktop.ini
+~$*
+.~lock.*#
+*.swp
+*.swo
