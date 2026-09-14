@@ -20,7 +20,7 @@ matching, recommendations, natural-language assistance, and reporting.
 - [Download the editable report (DOCX)](docs/phase-1/COSC336_Group6_Phase1_v1.0.docx)
 
 The PDF is the reading copy; the DOCX is its editable counterpart. Both files are
-the finalized Phase 1 artifacts. The next project phase is feasibility assessment.
+the finalized Phase 1 artifacts. The next project phase 2 is feasibility assessment.
 
 ## Repository organization
 
@@ -42,12 +42,3 @@ and implementation structure will be added when their deliverables and tools are
 - Ahmed Mohamed Moustafa Ghandour
 - Abdulrahman Feras Junaid
 - Muhammad Awais Afzal Mirza
-
-## Working practices
-
-- Use your own GitHub account and make regular, meaningful commits with clear messages.
-- Keep changes focused and review teammates' work before merging.
-- Track project documentation, implementation, and tests here as each phase develops.
-- Retain submitted phase versions so later revisions do not overwrite the project history.
-
-Collaborator access is managed by the repository owner.
