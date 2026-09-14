@@ -12,6 +12,8 @@ matching, recommendations, natural-language assistance, and reporting.
 
 ## Start here
 
+- [Read the project brief (PDF)](docs/Project-September2026.pdf)
+
 **Phase 1 — Initial Plan and Requirement Gathering Document, version 1.0**
 
 - [Read the finalized report (PDF)](docs/phase-1/COSC336_Group6_Phase1_v1.0.pdf)
@@ -24,6 +26,7 @@ the finalized Phase 1 artifacts. The next project phase is feasibility assessmen
 
 ```text
 docs/
+├── Project-September2026.pdf
 └── phase-1/
     ├── COSC336_Group6_Phase1_v1.0.pdf
     └── COSC336_Group6_Phase1_v1.0.docx
