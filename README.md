@@ -19,17 +19,25 @@ matching, recommendations, natural-language assistance, and reporting.
 - [Read the finalized report (PDF)](docs/phase-1/COSC336_Group6_Phase1_v1.0.pdf)
 - [Download the editable report (DOCX)](docs/phase-1/COSC336_Group6_Phase1_v1.0.docx)
 
-The PDF is the reading copy; the DOCX is its editable counterpart. Both files are
-the finalized Phase 1 artifacts. The next project phase 2 is feasibility assessment.
+**Phase 2 — Feasibility Study, version 1.0**
+
+- [Read the finalized report (PDF)](docs/phase-2/COSC336_Group6_Phase2_v1.0.pdf)
+- [Download the editable report (DOCX)](docs/phase-2/COSC336_Group6_Phase2_v1.0.docx)
+
+PDFs are the reading copies; DOCX files are their editable counterparts. The next
+project phase is detailed requirements analysis.
 
 ## Repository organization
 
 ```text
 docs/
 ├── Project-September2026.pdf
-└── phase-1/
-    ├── COSC336_Group6_Phase1_v1.0.pdf
-    └── COSC336_Group6_Phase1_v1.0.docx
+├── phase-1/
+│   ├── COSC336_Group6_Phase1_v1.0.pdf
+│   └── COSC336_Group6_Phase1_v1.0.docx
+└── phase-2/
+    ├── COSC336_Group6_Phase2_v1.0.pdf
+    └── COSC336_Group6_Phase2_v1.0.docx
 ```
 
 Reviewed deliverables are organized by phase and identified by version. Preserve
