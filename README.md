@@ -19,10 +19,10 @@ matching, recommendations, natural-language assistance, and reporting.
 - [Read the finalized report (PDF)](docs/phase-1/COSC336_Group6_Phase1_v1.0.pdf)
 - [Download the editable report (DOCX)](docs/phase-1/COSC336_Group6_Phase1_v1.0.docx)
 
-**Phase 2 — Feasibility Study, version 1.0**
+**Phase 2 — Feasibility Study, version 1.1**
 
-- [Read the finalized report (PDF)](docs/phase-2/COSC336_Group6_Phase2_v1.0.pdf)
-- [Download the editable report (DOCX)](docs/phase-2/COSC336_Group6_Phase2_v1.0.docx)
+- [Read the finalized report (PDF)](docs/phase-2/COSC336_Group6_Phase2_v1.1.pdf)
+- [Download the editable report (DOCX)](docs/phase-2/COSC336_Group6_Phase2_v1.1.docx)
 
 PDFs are the reading copies; DOCX files are their editable counterparts. The next
 project phase is detailed requirements analysis.
@@ -36,12 +36,12 @@ docs/
 │   ├── COSC336_Group6_Phase1_v1.0.pdf
 │   └── COSC336_Group6_Phase1_v1.0.docx
 └── phase-2/
-    ├── COSC336_Group6_Phase2_v1.0.pdf
-    └── COSC336_Group6_Phase2_v1.0.docx
+    ├── COSC336_Group6_Phase2_v1.1.pdf
+    └── COSC336_Group6_Phase2_v1.1.docx
 ```
 
-Reviewed deliverables are organized by phase and identified by version. Preserve
-published versions; add a new version when a report is revised. Later phase folders
+Reviewed deliverables are organized by phase, with the latest version in each folder.
+Earlier versions remain available in Git history. Later phase folders
 and implementation structure will be added when their deliverables and tools are defined.
 
 ## Team
