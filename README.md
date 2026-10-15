@@ -24,8 +24,13 @@ matching, recommendations, natural-language assistance, and reporting.
 - [Read the finalized report (PDF)](docs/phase-2/COSC336_Group6_Phase2_v1.1.pdf)
 - [Download the editable report (DOCX)](docs/phase-2/COSC336_Group6_Phase2_v1.1.docx)
 
+**Phase 3 — Software Requirements Specification, version 1.2**
+
+- [Read the finalized specification (PDF)](docs/phase-3/COSC336_Group6_Phase3_SRS_v1.2.pdf)
+- [Download the editable specification (DOCX)](docs/phase-3/COSC336_Group6_Phase3_SRS_v1.2.docx)
+
 PDFs are the reading copies; DOCX files are their editable counterparts. The next
-project phase is detailed requirements analysis.
+project phase is architecture and detailed design.
 
 ## Repository organization
 
@@ -35,9 +40,12 @@ docs/
 ├── phase-1/
 │   ├── COSC336_Group6_Phase1_v1.0.pdf
 │   └── COSC336_Group6_Phase1_v1.0.docx
-└── phase-2/
-    ├── COSC336_Group6_Phase2_v1.1.pdf
-    └── COSC336_Group6_Phase2_v1.1.docx
+├── phase-2/
+│   ├── COSC336_Group6_Phase2_v1.1.pdf
+│   └── COSC336_Group6_Phase2_v1.1.docx
+└── phase-3/
+    ├── COSC336_Group6_Phase3_SRS_v1.2.pdf
+    └── COSC336_Group6_Phase3_SRS_v1.2.docx
 ```
 
 Reviewed deliverables are organized by phase, with the latest version in each folder.
